@@ -22,7 +22,7 @@ const int CNVACFT=43560;//Conversion Acres to Feet
 //Executable code begins here!!!
 int main(int argc, char** argv) {
     //Declare Variables
-    int nAcres,nFt2;
+    int nAcres,nFt2;//Number of acres and square ft
     
     //Input values
     cout<<"This is a conversion program "<<endl;
