@@ -22,31 +22,77 @@ using namespace std;
 int main(int argc, char** argv) {
     //Declare Variables
     bool x,y;
-    
-    //Input values
-    x=true;
-    y=true;
-    
+
     //Output the Header
-    cout<<"X Y !X !Y X&&Y X||Y X^Y X^Y^Y X^Y^X !(X&&Y) !X||!Y !(X||Y) !X&&!Y"
+    cout<<"X Y !X !Y  X&&Y  X||Y  X^Y  X^Y^Y  X^Y^X  !(X&&Y) !X||!Y  !(X||Y)  !X&&!Y"
             <<endl;
     
     //Process and Output values for the first row
+    x=true;
+    y=true;
     cout<<(x?'T':'F')<<" ";
     cout<<(y?'T':'F')<<"  ";
     cout<<(!x?'T':'F')<<"  ";
-    cout<<(!y?'T':'F')<<"   ";
-    cout<<(x&&y?'T':'F')<<" ";
-    cout<<endl;
+    cout<<(!y?'T':'F')<<"    ";
+    cout<<(x&&y?'T':'F')<<"     ";
+    cout<<(x||y?'T':'F')<<"    ";
+    cout<<(x^y?'T':'F')<<"     ";
+    cout<<(x^y^y?'T':'F')<<"      ";
+    cout<<(x^y^x?'T':'F')<<"       ";
+    cout<<(!(x&&y)?'T':'F')<<"       ";
+    cout<<(!x||!y?'T':'F')<<"        ";
+    cout<<(!(x||y)?'T':'F')<<"       ";
+    cout<<(!x&&!y?'T':'F')<<endl;
     
-    //Process and Output values for the second row
+    //Process and Output values for the first row
     y=false;
     cout<<(x?'T':'F')<<" ";
     cout<<(y?'T':'F')<<"  ";
     cout<<(!x?'T':'F')<<"  ";
-    cout<<(!y?'T':'F')<<"   ";
-    cout<<(x&&y?'T':'F')<<" ";
-
+    cout<<(!y?'T':'F')<<"    ";
+    cout<<(x&&y?'T':'F')<<"     ";
+    cout<<(x||y?'T':'F')<<"    ";
+    cout<<(x^y?'T':'F')<<"     ";
+    cout<<(x^y^y?'T':'F')<<"      ";
+    cout<<(x^y^x?'T':'F')<<"       ";
+    cout<<(!(x&&y)?'T':'F')<<"       ";
+    cout<<(!x||!y?'T':'F')<<"        ";
+    cout<<(!(x||y)?'T':'F')<<"       ";
+    cout<<(!x&&!y?'T':'F')<<endl;
+    
+    //Process and Output values for the first row
+    x=false;
+    y=true;
+    cout<<(x?'T':'F')<<" ";
+    cout<<(y?'T':'F')<<"  ";
+    cout<<(!x?'T':'F')<<"  ";
+    cout<<(!y?'T':'F')<<"    ";
+    cout<<(x&&y?'T':'F')<<"     ";
+    cout<<(x||y?'T':'F')<<"    ";
+    cout<<(x^y?'T':'F')<<"     ";
+    cout<<(x^y^y?'T':'F')<<"      ";
+    cout<<(x^y^x?'T':'F')<<"       ";
+    cout<<(!(x&&y)?'T':'F')<<"       ";
+    cout<<(!x||!y?'T':'F')<<"        ";
+    cout<<(!(x||y)?'T':'F')<<"       ";
+    cout<<(!x&&!y?'T':'F')<<endl;
+    
+    //Process and Output values for the first row
+    y=false;
+    cout<<(x?'T':'F')<<" ";
+    cout<<(y?'T':'F')<<"  ";
+    cout<<(!x?'T':'F')<<"  ";
+    cout<<(!y?'T':'F')<<"    ";
+    cout<<(x&&y?'T':'F')<<"     ";
+    cout<<(x||y?'T':'F')<<"    ";
+    cout<<(x^y?'T':'F')<<"     ";
+    cout<<(x^y^y?'T':'F')<<"      ";
+    cout<<(x^y^x?'T':'F')<<"       ";
+    cout<<(!(x&&y)?'T':'F')<<"       ";
+    cout<<(!x||!y?'T':'F')<<"        ";
+    cout<<(!(x||y)?'T':'F')<<"       ";
+    cout<<(!x&&!y?'T':'F')<<endl;
+    
     //Exit stage right!
     return 0;
 }
