@@ -27,8 +27,8 @@
 
 //System Libraries
 #include <iostream> //Input - Output stream library
-#include <iomanip>  //
-using namespace std;
+#include <iomanip>  //Format Library
+using namespace std;//Standard namespace
 
 //User Libraries
 
