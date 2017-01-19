@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=crapstats
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/crapstats
+CND_ARTIFACT_NAME_Debug=examplemenu_functionswith3problems
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/examplemenu_functionswith3problems
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=crapstats.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/crapstats.tar
+CND_PACKAGE_NAME_Debug=examplemenufunctionswith3problems.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/examplemenufunctionswith3problems.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=crapstats
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/crapstats
+CND_ARTIFACT_NAME_Release=examplemenu_functionswith3problems
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/examplemenu_functionswith3problems
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=crapstats.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/crapstats.tar
+CND_PACKAGE_NAME_Release=examplemenufunctionswith3problems.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/examplemenufunctionswith3problems.tar
 #
 # include compiler specific variables
 #
