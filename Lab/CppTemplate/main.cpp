@@ -1,9 +1,9 @@
 /* 
   File:   main.cpp
   Author: Dr. Mark E. Lehr
-  Created on January 3, 2017, 12:15 PM
-  Purpose:  Template to be used in all programming
-            projects!
+  Created on January 24, 2017, 12:23 PM
+  Purpose:  Template for all C Programs
+ 
  */
 
 //System Libraries
@@ -14,8 +14,7 @@ using namespace std;
 
 //Global Constants
 //Such as PI, Vc, -> Math/Science values
-//as well as conversions from system of units to 
-//another
+//as well as conversions from system of units to another
 
 //Function Prototypes
 
