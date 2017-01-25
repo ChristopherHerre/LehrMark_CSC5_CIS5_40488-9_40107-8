@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=savitch_8thed_chap4_prob17_query_digit
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/savitch_8thed_chap4_prob17_query_digit
+CND_ARTIFACT_NAME_Debug=crapstats_v3
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/crapstats_v3
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=savitch8thedchap4prob17querydigit.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/savitch8thedchap4prob17querydigit.tar
+CND_PACKAGE_NAME_Debug=crapstatsv3.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/crapstatsv3.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=savitch_8thed_chap4_prob17_query_digit
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/savitch_8thed_chap4_prob17_query_digit
+CND_ARTIFACT_NAME_Release=crapstats_v3
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/crapstats_v3
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=savitch8thedchap4prob17querydigit.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/savitch8thedchap4prob17querydigit.tar
+CND_PACKAGE_NAME_Release=crapstatsv3.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/crapstatsv3.tar
 #
 # include compiler specific variables
 #
